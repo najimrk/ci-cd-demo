@@ -1,0 +1,15 @@
+{
+  "name": "ci-cd-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "just"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
